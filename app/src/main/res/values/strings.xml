@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlertMe</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="record_task">Record Task</string>
+</resources>
